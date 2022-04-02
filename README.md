@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonyIvanovakaMEDBEDb
+- 👋 Hi, I’m @Antony Ivanov (aka MEDBEDb)
 - 👀 I’m interested in python, C++, CI/CD
 - 🌱 I’m currently learning python, bash, C++, linux
 - 💞️ I’m looking to collaborate on learning python
